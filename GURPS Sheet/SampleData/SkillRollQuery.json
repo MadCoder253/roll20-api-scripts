@@ -1,0 +1,87 @@
+{
+  "content": " {{sheetStyle=4}} {{type=Attribute Check}} {{activeDefense=$[[0]]}} {{activeDefense=$[[1]]}} {{showSuccessLabel=$[[2]]}} {{characterName=Frank the Tall}} {{skillName=Strength Roll}} {{rollResult=$[[3]]}} {{effectiveSkill=$[[6]]}} {{useCriticalPlusTen=$[[5]]}}",
+  "inlinerolls": [
+    {
+      "expression": "0",
+      "results": {
+        "resultType": "M",
+        "rolls": [{ "expr": 0, "type": "M" }],
+        "total": 0,
+        "type": "V"
+      },
+      "signature": false
+    },
+    {
+      "expression": "0",
+      "results": {
+        "resultType": "M",
+        "rolls": [{ "expr": 0, "type": "M" }],
+        "total": 0,
+        "type": "V"
+      },
+      "signature": false
+    },
+    {
+      "expression": "1",
+      "results": {
+        "resultType": "M",
+        "rolls": [{ "expr": 1, "type": "M" }],
+        "total": 1,
+        "type": "V"
+      },
+      "signature": false
+    },
+    {
+      "expression": "3d6",
+      "results": {
+        "resultType": "sum",
+        "rolls": [
+          {
+            "dice": 3,
+            "results": [{ "v": 1 }, { "v": 1 }, { "v": 2 }],
+            "sides": 6,
+            "type": "R"
+          }
+        ],
+        "total": 4,
+        "type": "V"
+      },
+      "rollid": "-MSfvQjdI9nTPAEPtkgc",
+      "signature": "46a65d708d8951692981d90573dc4899c1fbe08f21a4f7b675dca59ce538d5bcd2d2a4e059260a366872f5258e381aca22e0ac14a1321f9c96026af28d1c3fba"
+    },
+    {
+      "expression": "0",
+      "results": {
+        "resultType": "M",
+        "rolls": [{ "expr": 0, "type": "M" }],
+        "total": 0,
+        "type": "V"
+      },
+      "signature": false
+    },
+    {
+      "expression": "1",
+      "results": {
+        "resultType": "M",
+        "rolls": [{ "expr": 1, "type": "M" }],
+        "total": 1,
+        "type": "V"
+      },
+      "signature": false
+    },
+    {
+      "expression": "18 + 0",
+      "results": {
+        "resultType": "M",
+        "rolls": [{ "expr": "18+0", "type": "M" }],
+        "total": 18,
+        "type": "V"
+      },
+      "signature": false
+    }
+  ],
+  "playerid": "-MQBJeLOyJm7BmJ6pNVA",
+  "rolltemplate": "skillRoll",
+  "type": "general",
+  "who": "MadCoder (GM)"
+}

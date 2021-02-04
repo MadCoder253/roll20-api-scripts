@@ -1,0 +1,13 @@
+{
+  "name":"GURPS Sheet",
+  "script": "gurps-sheet.js",
+  "version":"1.0",
+  "previousversions": [],
+  "description":"Scripts for processings actions in the GURPS Character Sheet.",
+  "authors": "MadCoder253",
+  "roll20userid":"945642",
+  "useroptions":[],
+  "dependencies":{},
+  "modifies": {},
+  "conflicts": {}
+}
